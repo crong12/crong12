@@ -1,4 +1,4 @@
-## Hey 👋 I'm Chin Rong!  
+# Hey 👋 I'm Chin Rong!  
   
 
 <a href="https://linkedin.com/in/ongchinrong12" target="_blank">
@@ -46,7 +46,3 @@ I'm interested in topics like deep learning and NLP, and I hope to craft interes
 </div>  
 
 <br/>  
-
-
-<br/>  
-
