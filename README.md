@@ -50,13 +50,3 @@ I'm interested in topics like deep learning and NLP, and I hope to craft interes
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
