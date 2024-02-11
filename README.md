@@ -23,7 +23,7 @@ I'm interested in topics like deep learning and NLP, and I hope to craft interes
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on a study to analyse electronic health records in the UK's largest primary care database  
+- 🔭 I’m currently working on a study using R to analyse electronic health records in the UK's largest primary care database 
   
 
 - 💡 Recent projects: [conversion-rate-prediction](https://github.com/Crong12/conversion-rate-prediction) | [image-classification](https://github.com/Crong12/image-classification)   
