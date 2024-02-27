@@ -22,7 +22,7 @@ I'm interested in topics like deep learning and NLP, and I hope to craft interes
 <br/>  
 
 
-## Rapidfire  
+## Rapid fire  
 - 🔭 I’m currently working on a study using R to analyse electronic health records in the UK's largest primary care database 
   
 
