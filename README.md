@@ -10,21 +10,21 @@
 
 
 ### Nice to meet you!  
-I'm a final year undergraduate looking to forge a path in data science and analytics. As with any beginner, I'm still very much feeling my way around the space and learning as much as I can. 📖
+I'm a postgraduate student looking to forge a path in data science and analytics. As with any beginner, I'm still very much feeling my way around the space and learning as much as I can. 📖
 
-Although my formal background is in biological sciences, and I have a longstanding passion for pharmaceuticals and healthcare, I do also believe in learning widely and I find joy in expanding my horizons. 🏔
+Although my undergrad background is in biological sciences, and I have a longstanding passion for pharmaceuticals and healthcare, I do also believe in learning widely and I find joy in expanding my horizons. 🏔
 
-I'm interested in topics like deep learning and NLP, and I hope to craft interesting pet projects in these areas in the near future, so watch this space! 👀   
+
   
 
 <br/>  
 
 
 ## Rapid fire  
-- 🔭 I’m currently working on a study using R to analyse electronic health records in the UK's largest primary care database 
+- 🔭 I’m currently pursuing my master's in data science at King's College London (graduating in fall 2025)
   
 
-- 💡 Recent projects: [conversion-rate-prediction](https://github.com/Crong12/conversion-rate-prediction) | [image-classification](https://github.com/Crong12/image-classification)   
+- 💡 Recent projects: [uplift-prediction](https://github.com/Crong12/uplift-prediction) | [conversion-rate-prediction](https://github.com/Crong12/conversion-rate-prediction)  
   
 
 - ⚡ Fun fact: While I use dark themes to code in Python like everyone else, I actually prefer coding in R in the default light theme!   
