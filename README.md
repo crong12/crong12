@@ -12,9 +12,9 @@
 ### Nice to meet you!  
 I'm a postgraduate student looking to forge a path in data science, starting with my MSc. As with any beginner, I'm still very much feeling my way around the space and learning as much as I can. 📖
 
-I'm particularly interested in data analytics and modelling. I love diving into the nitty gritty details of a messy dataset and digging up interesting insights that may be invisible to (or ignored by) others. Recently, I have started to delve into the wonderful, complex field of NLP and am really excited by what lies ahead 😎 
+I'm particularly interested in data analytics and modelling. I love diving into the nitty gritty details of a messy dataset and digging up interesting insights that may be invisible to (or ignored by) others. Recently, I have started to delve into the wonderful, complex field of NLP and am really excited by what lies ahead! 😎 
 
-This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework. I have also started on a personal project (for fun!) and will showcase it here once it's done. 
+This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework. I have also started on a personal project (for fun!) and will showcase it here once it's done. 💯
 
   
 
