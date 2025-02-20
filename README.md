@@ -14,7 +14,7 @@ I'm a postgraduate student looking to forge a path in data science, starting wit
 
 I'm particularly interested in data analytics and modelling. I love diving into the nitty gritty details of a messy dataset and digging up interesting insights that may be invisible to (or ignored by) others. Recently, I have started to delve into the wonderful, complex field of NLP and am really excited by what lies ahead! 😎 
 
-This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework. I have also started on a personal project (for fun!) and will showcase it here once it's done (though admittedly it's been put on the backburner due to mounting research and school workloads 😰). 
+This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework. I have also started on a personal project (for fun!) and will showcase it here once it's done. 💯 
 
   
 
@@ -22,7 +22,7 @@ This portfolio serves as a documentation of my data science learning journey, an
 
 
 ## Rapid fire  
-- 🔭 I’m currently pursuing my master's in data science at King's College London (graduating in fall 2025)
+- 🔭 I’m currently pursuing my master's in data science at King's College London. Also working on a personal project: [expense tracker bot](https://github.com/crong12/expense-tracker-tele-bot). Stay tuned!
   
 
 - 💡 Recent projects: [image-segmentation-sffcm](https://github.com/crong12/image-segmentation-sffcm) | [uplift-prediction](https://github.com/Crong12/uplift-prediction) 
