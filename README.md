@@ -25,7 +25,7 @@ This portfolio serves as a documentation of my data science learning journey, an
 - 🔭 I’m currently pursuing my master's in data science at King's College London, and will be beginning my internship as Commerce Data Science intern at TikTok soon! Exciting times ahead
   
 
-- 💡 Recent projects: [expense tracker bot](https://github.com/crong12/expense-tracker-tele-bot) | [image-segmentation-sffcm](https://github.com/crong12/image-segmentation-sffcm) 
+- 💡 Recent projects: [expense-tracker-tele-bot](https://github.com/crong12/expense-tracker-tele-bot) | [image-segmentation-sffcm](https://github.com/crong12/image-segmentation-sffcm) 
   
 
 - ⚡ Fun fact: While I use dark themes to code in Python like everyone else, I actually prefer coding in R in the default light theme!   
