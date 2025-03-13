@@ -14,7 +14,7 @@ I'm a postgraduate student looking to forge a path in data science, starting wit
 
 I'm particularly interested in data analytics and modelling. I love diving into the nitty gritty details of a messy dataset and digging up interesting insights that may be invisible to (or ignored by) others. Recently, I have started to delve into the wonderful, complex field of LLMs and AI agents. In fact, I'm working on a personal project to use LLMs for expense tracking and monitoring purposes. I'm really excited by what lies ahead in this space! 😎 
 
-This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework. I have also started on a personal project (for fun!) and will showcase it here once it's done. 💯 
+This portfolio serves as a documentation of my data science learning journey, and will mainly comprise data science-related projects that I've worked on - from hackathons to academic coursework to personal projects. 💯 
 
   
 
