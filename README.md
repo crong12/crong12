@@ -45,7 +45,7 @@ This portfolio serves as a documentation of my data science learning journey, an
   <a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="icons/langgraph.svg" alt="LangGraph" height="40" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="icons/fastapi.svg" alt="FastAPI" height="40" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="icons/ddvp.ico" alt="Docker" height="40" /></a>
   <a href="https://core.telegram.org/bots/api" target="_blank"><img style="margin: 10px" src="icons/Telegram_logo.svg" alt="Telegram" height="40" /></a>
   <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" /></a>  
 </div>  
