@@ -7,7 +7,7 @@
 
 
 ### Nice to meet you!  
-I'm a budding data scientist on a journey to forge my own path in this exciting, evolving field. Having recently graduated from King's College London with an MSc in Data Science and a TikTok internship under my belt, I'm super excited to embark on my career as an Associate Data Scientist at Spotify! 🎶
+I'm a budding data scientist on a journey to forge my own path in this exciting, evolving field. Having recently graduated from King's College London with an MSc in Data Science and a TikTok internship under my belt, I'm super excited to embark on my career soon! 🎶
 
 I'm particularly interested in data analytics and modelling. I love diving into the nitty gritty details of a messy dataset and digging up interesting insights that may be invisible to (or ignored by) others. Recently, I have started to delve into the wonderful, complex field of LLMs and AI agents. In fact, I'm working on a personal project to use LLMs for expense tracking and analytics. I'm really excited by what lies ahead in this space! 😎 
 
